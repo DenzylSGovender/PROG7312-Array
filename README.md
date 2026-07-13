@@ -37,6 +37,7 @@ Complete your guessing game using Visual Studio.
 Make sure you implement at least 3 features from the project list above.
 
 Submit your code to the following GitHub Classroom Repo:
+
 🔗 Group 1 students claim:https://classroom.github.com/a/_ZTV1V6H
 
 🔗 Group 2 students claim:https://classroom.github.com/a/CV4k4Mum
