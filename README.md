@@ -42,6 +42,8 @@ Submit your code to the following GitHub Classroom Repo:
 
 🔗 Group 2 students claim:https://classroom.github.com/a/CV4k4Mum
 
+🔗Backup Link if the above does not work: https://classroom50.org/EMKNDN/emkndn-prog7312-g2-2026/assignments/prog7312-ice-task-1/accept
+
 Then submit your GitHub link to Arc under ICE Task 1.
 ---
 ## 🧩 Sample Starter Code
